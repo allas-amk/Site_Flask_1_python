@@ -1,0 +1,9 @@
+pip install -r requirements.txt para instalar as bibliotecas necessarias para o projeto
+
+git init
+git status
+git add .
+ git commit -m "primeiro commit"
+git branch -M main
+git remote add origin https://github.com/allas-amk/Site_Flask_1_python.git
+git push -u origin main
